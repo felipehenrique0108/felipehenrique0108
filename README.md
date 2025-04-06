@@ -27,13 +27,11 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
         <img src="https://skillicons.dev/icons?i=express" alt="Express" />
         <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
         <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
-      </a>
     </td>
 
   </tr>
@@ -54,7 +52,6 @@ Let's Connect for Exciting Collaboration Ventures!"
       </a>
     </td>
     <td>
-      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
@@ -62,7 +59,6 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="37" height="37" />
-      </a>
     </td>
   </tr>
 </table>
