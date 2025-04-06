@@ -45,7 +45,7 @@ Let's Connect for Exciting Collaboration Ventures!"
     <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
