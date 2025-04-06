@@ -1,20 +1,17 @@
 ## Hello! I'm CodeM@ster,
-"Experienced Senior Full Stack Developer WordPress | Shopify React | Laravel | Python
+"Experienced Senior Full Stack Developer React | Laravel | Python, WordPress | Shopify
 Let's Connect for Exciting Collaboration Ventures!"
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
-- React.js, Next.js, Node.js / Express, MongoDB, Redux, Vite, Material-TailwindCSS
-
+- React.js, Laravel, Python / Express, MongoDB, Redux, Vite, Material-TailwindCSS
+- WordPress, Shopify, Webflow, Ecoommerce
 ## Languages & Tools
 
 <table>
   <tr>
     <th><h3 align="center">Frontend</h3></th>
     <th><h3 align="center">Backend</h3></th>
-    <th><h3 align="center">Mobile</h3></th>
-    <th><h3 align="center">Database</h3></th>
-    <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
     <td>
@@ -38,14 +35,17 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
       </a>
     </td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Android Studio, React Native" />
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" />
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="40" height="40" />
-      </a>
-    </td>
-    <td>
+
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Tools</h3></th>
+  </tr>
+  <tr>
+        <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
