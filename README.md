@@ -56,6 +56,7 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="37" height="37" />
+        <br/>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="37" height="37" />
