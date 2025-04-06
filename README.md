@@ -14,7 +14,7 @@ Let's Connect for Exciting Collaboration Ventures!"
     <th><h3 align="center">Backend</h3></th>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
@@ -45,7 +45,7 @@ Let's Connect for Exciting Collaboration Ventures!"
     <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
-        <td>
+    <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
