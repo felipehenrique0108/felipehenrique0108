@@ -34,6 +34,7 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
         <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     </td>
 
   </tr>
