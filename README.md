@@ -66,6 +66,23 @@ Let's Connect for Exciting Collaboration Ventures!"
   </tr>
 </table>
 
+<table width="100%">
+  <tr width="100%"><th>Language</th></tr>
+  <tr>
+    <td width="100%">
+      <img src="https://skillicons.dev/icons?i=c" alt="C" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=qt" alt="Qt" />
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+    </td>
+  </tr>
+</table>
+
 ## Github Stats
 
  <p align="center">
