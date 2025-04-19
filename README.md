@@ -39,6 +39,14 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
         <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
         <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+        <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" />
+        <img src="https://skillicons.dev/icons?i=rails" alt="Ruby on Rails" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
+        <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
     </td>
 
   </tr>
