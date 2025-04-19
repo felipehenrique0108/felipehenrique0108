@@ -59,12 +59,20 @@ Let's Connect for Exciting Collaboration Ventures!"
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-      <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" alt="CouchDB" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="48" height="48" />
     </td>
     <td width="50%">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
