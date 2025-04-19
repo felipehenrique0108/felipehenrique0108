@@ -75,14 +75,23 @@ Let's Connect for Exciting Collaboration Ventures!"
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="48" height="48" />
     </td>
     <td width="50%">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
-        <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
-    </td>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=jenkins,githubactions" alt="CircleCI, GitHub Actions" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=gcp,azure" alt="Google Cloud, Azure" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="48" height="48" />
+    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+    <img src="https://skillicons.dev/icons?i=jest,cypress" alt="Jest, Cypress" />
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell" alt="Bash, PowerShell" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+</td>
   </tr>
 </table>
 
