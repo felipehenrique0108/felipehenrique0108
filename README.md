@@ -15,18 +15,22 @@ Let's Connect for Exciting Collaboration Ventures!"
   </tr>
   <tr>
     <td width="50%">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
-        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="48" height="48" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" alt="Webflow" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" />
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" alt="Webflow" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" />
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     </td>
     <td width="50%">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
