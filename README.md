@@ -19,7 +19,8 @@ Let's Connect for Exciting Collaboration Ventures!"
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap" alt="HTML, CSS, Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailWind Css" />
       <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" />
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
       <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
